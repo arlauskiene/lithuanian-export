@@ -1,2 +1,2 @@
-# lithuanian-export
+# Lithuanian export
 Lithuanian export analysis by value, growth, popular countries.
