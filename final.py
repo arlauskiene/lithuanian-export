@@ -35,22 +35,3 @@ data = pd.read_csv('eksportas_viso.csv')
 print(d14, d15, d16, d17, d18, d19)
 print(data)
 data.to_csv(r'C:\Users\Rita\PycharmProjects\final\eksportas_viso.csv')
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
